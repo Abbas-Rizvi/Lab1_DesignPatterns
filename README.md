@@ -7,4 +7,4 @@ The Adapter file contains The Adapter pattern with all classes and the test clas
 
 A screen dump of Observer
 
-A screen dump of Adapter
+A screen dump of Adapter https://github.com/Abbas-Rizvi/Lab1_DesignPatterns/blob/master/AdapterScreenDump.jpg
